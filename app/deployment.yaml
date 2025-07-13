@@ -33,6 +33,6 @@ data:
   index.html: |
     <!DOCTYPE html>
     <html>
-    <head><title>Hello from GitOps</title></head>
+    <head><title>Hello this is David's test app</title></head>
     <body><h1>Hello from Argo CD + Minikube!</h1></body>
     </html>
