@@ -34,5 +34,5 @@ data:
     <!DOCTYPE html>
     <html>
     <head><title>Hello this is David's test app</title></head>
-    <body><h1>Hello from Argo CD + Minikube!</h1></body>
+    <body><h1>Well that seems to work real good</h1></body>
     </html>
